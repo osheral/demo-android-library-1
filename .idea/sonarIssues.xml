@@ -3,6 +3,16 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/publishlibrary/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/publishlibrary/src/androidTest/java/com/example/publishlibrary/OmkarTest.java">
           <value>
             <set />

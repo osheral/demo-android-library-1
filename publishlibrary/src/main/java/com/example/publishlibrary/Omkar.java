@@ -10,5 +10,5 @@ public class Omkar {
   }
 
   public void boo(){}
-  
+
 }
