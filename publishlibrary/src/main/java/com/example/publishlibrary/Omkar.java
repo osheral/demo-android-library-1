@@ -8,4 +8,7 @@ public class Omkar {
   public int foo(){
     return 234234;
   }
+
+  public void boo(){}
+  
 }

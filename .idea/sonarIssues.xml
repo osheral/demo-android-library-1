@@ -18,6 +18,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../temp5/app/build/intermediates/exploded-aar/com.github.osheral/demo-android-library-1/-SNAPSHOT/jars/classes.jar!/com/example/publishlibrary/BuildConfig.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../temp5/app/build/intermediates/exploded-aar/com.github.osheral/demo-android-library-1/-SNAPSHOT/jars/classes.jar!/com/example/publishlibrary/Omkar.class">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../temp5/app/src/androidTest/java/com/example/omkars/temp5/ExampleInstrumentedTest.java">
           <value>
             <set />
